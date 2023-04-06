@@ -9,7 +9,7 @@ const assert = require('assert');
 
 
 describe('Registration and Login Flow', () => {
-    xit('Register with random information and log back in', async () => {
+     it('Register with random information and log back in', async () => {
         
         //Load front page
         await Page.loadFrontPage()
