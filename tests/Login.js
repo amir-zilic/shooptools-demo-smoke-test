@@ -7,7 +7,7 @@ const assert = require('assert');
 
 
 describe('Login with valid info', () => {
-    xit('Enter valid info and log in', async () => {
+     it('Enter valid info and log in', async () => {
         
         await Page.loadFrontPage()
  
