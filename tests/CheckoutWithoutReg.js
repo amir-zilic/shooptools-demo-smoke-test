@@ -11,7 +11,7 @@ const Check = require('../page-objects/utils/Check')
 
 
 describe('Add item to cart', () => {
-    xit('Select first item from front page and add to Cart', async () => {
+     it('Select first item from front page and add to Cart', async () => {
        
         //Load front page
         await Page.loadFrontPage()
