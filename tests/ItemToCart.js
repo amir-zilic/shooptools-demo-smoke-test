@@ -5,7 +5,7 @@ const assert = require('assert');
 const CartPage = require('../page-objects/pages/CartPage');
 
 describe('Add item to cart', () => {
-    xit('Select first item from front page and add to Cart', async () => {
+     it('Select first item from front page and add to Cart', async () => {
        
         //Load front page
         await Page.loadFrontPage()
