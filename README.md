@@ -1,5 +1,5 @@
 # shoptools-demo-smoke-test
-# Technologies used: 
+## Technologies used: 
  1. Javascript
  2. WebdriverIO
  3. Selenium
